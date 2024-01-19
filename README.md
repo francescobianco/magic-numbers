@@ -1,3 +1,3 @@
 # Magic Numbers
 
-Piccola collezzione di script per la ricerca di numeri dalle proprieta speciali
+Piccola collezione di script per la ricerca di numeri dalle proprietà speciali.
